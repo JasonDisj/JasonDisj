@@ -1,4 +1,4 @@
-<h2 align="left">Hello world, I'm Jason 👋</h2>
+<h2 align="left">Hi, I'm Jason <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h2>
 <h3 align="left">I'm always up for new challenges, learning new skills, and keeping a positive attitude 🚀</h3>
 
 - 🌱 I’m currently learning **React & React Native**
@@ -17,9 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasondisj&show_icons=true&locale=en&layout=compact" alt="jasondisj" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jasondisj&show_icons=true&locale=en" alt="jasondisj" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasondisj&label=Profile%20views&color=0e75b6&style=flat" alt="jasondisj" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasondisj&show_icons=true&locale=en" alt="jasondisj" /></p>
 
 
 
