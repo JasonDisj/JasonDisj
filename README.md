@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about React & React Native
+- 🥅 2023 Goals: Learn more about React, React Native and TypeScript
 - 🍿 Fun fact: I love music and my stinky 🐕
 
 ### Connect with me:
