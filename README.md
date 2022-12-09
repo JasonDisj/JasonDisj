@@ -34,7 +34,7 @@
 <img align="left" alt="Jest" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Mocha" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" style="padding-right:10px;" />
 <!-- <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> -->
-<img align="left" alt="Tailwind" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br />
