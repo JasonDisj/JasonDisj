@@ -10,7 +10,7 @@
 ## 🧐 About
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about React, React Native and TypeScript
 - 🍿 Fun fact: I love music and my stinky 🐕
 
