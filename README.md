@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<div align="center">
+<div align="center" display="flex" row-gap="0.5em";>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -39,6 +39,7 @@
 <br />
 
 ---
+<div display="flex" flex-direction="row" justify-content="space-between";>
 <details>
 <summary> 📈 GitHub Stats</summary>
 <img align="left" alt="Jason's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JasonDisj&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
@@ -48,6 +49,7 @@
 <summary> ⚡ Top Languages</summary>
 <img align="left" alt="Jason's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonDisj&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
+</div>
 
 
 
