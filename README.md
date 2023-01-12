@@ -11,9 +11,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about React, React Native and TypeScript
-- 🍿 Fun fact: I love music and my stinky 🐕
-
+- 🥅 2023 Goals: Learn more about React, Next.js and TypeScript
+- 🍿 Fun fact: I love my stinky 🐕 and fried chicken
 ---
 
 ## 🧰 Languages and Tools
